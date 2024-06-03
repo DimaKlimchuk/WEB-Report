@@ -26,6 +26,11 @@ header {
   margin-top: 10px;
 }
 
+img {
+  max-width: 70vw;
+  object-fit: contain;
+}
+
 .photo-placeholder {
   border: 1px solid black;
   width: 120px;
