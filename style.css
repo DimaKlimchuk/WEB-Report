@@ -4,6 +4,17 @@ body {
   font-family: Arial, sans-serif;
 }
 
+a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #4980e6;
+  transition: 0.5s;
+}
+
+a:hover {
+  color: #0350e0;
+}
+
 .container {
   display: grid;
   grid-template-areas:
